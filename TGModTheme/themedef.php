@@ -36,8 +36,8 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
  ********************************************************************************/
  
 $themedef = array(
-    'name'  => "Modern Aqua",
-    'description' => "MacOSX-like theme by CogniTom",
+    'name'  => "TG Mod Theme",
+    'description' => "TG Mod Theme",
     'version' => array(
 		'regex_matches' => array(
 			'6\.*\.*',
